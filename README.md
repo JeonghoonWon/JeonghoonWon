@@ -16,8 +16,8 @@
 ### About me
 - Junior Developer 
 - expedition1205@gmail.com 
-- <a href="https://joshwon.tistory.com" target="_blank">
-  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+- <a href="https://joshwon.tistory.com" target='_blank'>
+  <img src="https://img.shields.io/badge/world expedition-000000?style=flat-square&logo=Tistory&logoColor=white"/>
 </a>
 
 ### Currently interested in 
