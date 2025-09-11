@@ -8,29 +8,30 @@
 <img src="https://img.shields.io/badge/.NET Framework-512BD4?style=flat-square&logo=.NET&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-003366?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mac-000000?style=flat-square&logo=Apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </div>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeonghoonWon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)
-
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonghoonWon&layout=compact)](https://github.com/JeonghoonWon/github-readme-stats) -->
 
-
 ### About me
-- Junior Developer 
-- expedition1205@gmail.com 
-- <a href="https://joshwon.tistory.com" target='_blank'>
-  <img src="https://img.shields.io/badge/world expedition-000000?style=flat-square&logo=Tistory&logoColor=white"/>
-</a>
 
-### Currently interested in 
+- Junior Developer
+- expedition1205@gmail.com
+- <a href="https://joshwon.tistory.com" target='_blank'>
+    <img src="https://img.shields.io/badge/world expedition-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+  </a>
+
+### Currently interested in
+
 <div id="interest" align="left">
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=Xamarin&logoColor=white"/>
 </div>
-
 
 <!--
 **JeonghoonWon/JeonghoonWon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
