@@ -6,13 +6,14 @@
 
 <div id="badges" align="left">
 <img src="https://img.shields.io/badge/.NET Framework-512BD4?style=flat-square&logo=.NET&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-003366?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+    <br/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mac-000000?style=flat-square&logo=Apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </div>
 
@@ -20,7 +21,7 @@
 
 ### About me
 
-- Junior Developer
+- Software Developer
 - expedition1205@gmail.com
 - <a href="https://joshwon.tistory.com" target='_blank'>
     <img src="https://img.shields.io/badge/world expedition-000000?style=flat-square&logo=Tistory&logoColor=white"/>
@@ -31,6 +32,8 @@
 <div id="interest" align="left">
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=Xamarin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 </div>
 
 <!--
